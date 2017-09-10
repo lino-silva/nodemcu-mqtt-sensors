@@ -22,8 +22,8 @@ const int MQTT_MESSAGE_INTERVAL = 5000;
 long lastMsg;
 
 const uint MAX_WIFI_CONNECT_TRY = 60;
-const char* WLAN_SSID = "Efesios 4:28";
-const char* WLAN_PWD = "naohapacienciapraisso";
+const char* WLAN_SSID = "__________";
+const char* WLAN_PWD = "_________";
 
 const char* TEMPERATURE_MQTT_TOPIC_PUB = "home/livingroom/temperature";
 const char* HUMIDITY_MQTT_TOPIC_PUB = "home/livingroom/humidity";
